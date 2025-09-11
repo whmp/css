@@ -1,4 +1,4 @@
-# My HTML & CSS Project
+# HTML & CSS Project
 A website built with HTML and CSS.
 
 ## Features
